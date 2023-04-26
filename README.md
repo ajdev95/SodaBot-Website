@@ -1,10 +1,10 @@
 # SodaBot Website Clone
 
-## 🆘 Help 🆘
+# 🆘 Help 🆘
 
 **Support:** [discord.gg/black-h](https://discord.gg/black-h)
 
-## Installation
+# Installation
 
 <details>
 <summary>Windows Installation</summary>
